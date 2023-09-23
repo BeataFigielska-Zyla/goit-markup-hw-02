@@ -1,4 +1,6 @@
-:root
+:root {
+    --brand-color:var(--WHITE, #FFF)
+}
 
 body {
     font-family: Roboto, sans-serif;
