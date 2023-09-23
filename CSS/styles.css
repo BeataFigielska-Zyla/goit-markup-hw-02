@@ -1,3 +1,18 @@
+.logo {
+    font-style: Raleway, sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0,54px;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.link {
+    text-decoration: none;
+}
+.logo-text-studio {
+    color: #2e2f42;
+}
 .contact-link {
     color: #434455;
     font-family: Roboto;
@@ -70,4 +85,7 @@
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
+}
+.footer_background {
+    background-color: #2e2f42;
 }
