@@ -1,7 +1,4 @@
-:root {
-    --brand-color:var(--NAVY-BLUE,
-        #2E2F42)
-}
+
 
 body {
     font-family: Roboto, sans-serif;
@@ -60,7 +57,9 @@ body {
         font-style: normal;
         font-weight: 700;
         color: #FFF;
-        line-height: 60px
+        line-height: 1,07;
+        text-align: center;
+        letter-spacing: 0,02em;
                
 }
 .order-service-button {
@@ -69,6 +68,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
+    background-color: #4D5AE5;
 }
 
 .second-headline {
