@@ -1,5 +1,6 @@
 :root {
-    --brand-color:var(--WHITE, #FFF)
+    --brand-color:var(--NAVY-BLUE,
+        #2E2F42)
 }
 
 body {
