@@ -11,6 +11,35 @@
     font-style: normal;
     font-weight: 500;
 }
+.main-header {
+        font-family: Roboto;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        color: #FFF;
+}
+.order-service-button {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.second-headline {
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.third-headline {
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+
 .cursor {
     cursor: pointer;
 }
@@ -28,8 +57,15 @@
     font-style: normal;
     font-weight: 500;
 }
-.type-of-project {
+.description {
     color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.footer-text {
+    color: #F4F4FD;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
