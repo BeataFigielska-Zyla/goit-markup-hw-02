@@ -10,8 +10,8 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,17;
-    letter-spacing: 0,03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
@@ -30,8 +30,8 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .contact-link:hover {
     color: #404bbf;
@@ -44,8 +44,8 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .nav-link:hover {
@@ -75,9 +75,9 @@ body {
         font-style: normal;
         font-weight: 700;
         color: #FFF;
-        line-height: 1,07;
+        line-height: 1.07;
         text-align: center;
-        letter-spacing: 0,02em;
+        letter-spacing: 0.02em;
                
 }
 .order-service-button {
@@ -99,9 +99,9 @@ body {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1,11;
+    line-height: 1.11;
     text-align: center;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -123,8 +123,8 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1,5;
-    letter-spacing: 0,04em;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     background-color: #F4F4FD;
 
 }
@@ -142,8 +142,8 @@ body {
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .description {
@@ -152,8 +152,8 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .footer-text {
     color: #F4F4FD;
@@ -161,8 +161,8 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .footer_background {
     background-color: #2e2f42;
