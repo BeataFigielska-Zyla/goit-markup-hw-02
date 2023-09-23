@@ -87,6 +87,8 @@ body {
     font-style: normal;
     font-weight: 500;
     background-color: #4D5AE5;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 .order-service-button:hover {
     background-color: #404BBF;
