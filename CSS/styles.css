@@ -110,11 +110,11 @@ body {
 
 }
 .button-text:hover {
-    background-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .button-text:focus {
-    background-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .project-name {
     font-family: Roboto;
