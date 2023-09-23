@@ -50,6 +50,9 @@ body {
 .main-section {
     background-color: #2e2f42;
 }
+.background-section {
+    color: #F4F4FD;
+}
 .main-header {
         font-family: Roboto;
         font-size: 56px;
