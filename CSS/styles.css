@@ -73,6 +73,9 @@ body {
 .order-service-button:hover {
     background-color: #404BBF;
 }
+.order-service-button:focus {
+    background-color: #404BBF;
+}
 .second-headline {
     font-family: Roboto;
     font-size: 36px;
