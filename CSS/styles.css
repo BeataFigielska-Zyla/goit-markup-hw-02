@@ -64,13 +64,15 @@ body {
 }
 .order-service-button {
     color: #FFF;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     background-color: #4D5AE5;
 }
-
+.order-service-button:hover {
+    background-color: #404BBF;
+}
 .second-headline {
     font-family: Roboto;
     font-size: 36px;
