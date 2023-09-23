@@ -112,6 +112,8 @@ body {
     font-style: normal;
     font-weight: 500;
     color: #2e2f42;
+    line-height: 1.2;
+    letter-spacing: 0,02;
 }
 
 .cursor {
