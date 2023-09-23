@@ -29,12 +29,17 @@
     font-style: normal;
     font-weight: 500;
 }
+.main-section {
+    background-color: #2e2f42;
+}
 .main-header {
         font-family: Roboto;
         font-size: 56px;
         font-style: normal;
         font-weight: 700;
         color: #FFF;
+        line-height: 60px
+               
 }
 .order-service-button {
     color: #FFF;
