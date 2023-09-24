@@ -5,9 +5,9 @@ body {
 }
 
 :root {
-    background-color: #FFF;
-    color: #2e2f42;
+    --brand-color: #2e2f42
 }
+
 .logo {
     font-family: Raleway, sans-serif;
     font-weight: 800;
